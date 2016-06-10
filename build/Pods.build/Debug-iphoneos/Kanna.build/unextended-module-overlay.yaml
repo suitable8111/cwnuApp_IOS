@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/KimDaeho/Documents/Swift/04_창원대앱/CwnuApp/build/Debug-iphoneos/Kanna.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/KimDaeho/Documents/Swift/04_창원대앱/CwnuApp/build/Pods.build/Debug-iphoneos/Kanna.build/unextended-module.modulemap',
+    }]
+  }]
+}
